@@ -1,0 +1,5 @@
+{
+  "name": "AquaData Pro2.0",
+  "description": "An advanced aquaculture dashboard providing real-time shrimp health status, feeding recommendations, and financial savings calculations based on environmental data.",
+  "requestFramePermissions": []
+}
